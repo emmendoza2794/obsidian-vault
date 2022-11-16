@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "3bbddea6876bb85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cecfea2c7aa3d49a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1052e06c61cd936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mattilda/backend/env.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26114d0f7ee79082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mattilda/backend/env.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b62764dd27989d27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87d3944fbd146b91",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb17ba360e8976a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909b590c66eb963f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a17bd598aeeb24d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd2b6519a29a2ec1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a6fde83df2cce40",
+    "type": "split",
+    "children": [
+      {
+        "id": "b235208bcb4712d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72535cb0d55b30da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mattilda/backend/env.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed7703886caf8270",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mattilda/backend/env.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "696d72e8c2dbc663",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3db416d9098ea2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mattilda/backend/env.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26114d0f7ee79082",
+  "lastOpenFiles": [
+    "Malusoft/Poetry.md",
+    "Malusoft/aws/Lambda.md",
+    "Mattilda/backend/env.md"
+  ]
+}

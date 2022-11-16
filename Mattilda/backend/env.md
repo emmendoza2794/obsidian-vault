@@ -1,0 +1,35 @@
+## payments
+POSTGRES_USER="postgres"  
+POSTGRES_PASSWORD="postgres"  
+POSTGRES_PORT=5432  
+POSTGRES_SERVER=""  
+POSTGRES_SERVER_LOCAL="localhost"  
+POSTGRES_DB=""  
+DATABASE_URL="postgresql://postgres:postgres@localhost:5432"  
+ENVIRONMENT="local"  
+  
+KUSHKI_URL="https://api-uat.kushkipagos.com"  
+KUSHKI_PRIVATE_MERCHANT_ID="f7f98dd62b1a49999e4c296209d05b11"  
+KUSHKI_PUBLIC_MERCHANT_ID="59e0ef835ab543ed9ca8a8a7b695965e"
+
+
+## postal
+OPENAPI_PREFIX=""
+
+EMAILS_ENABLED=True
+SMTP_HOST=smtp-relay.sendinblue.com
+SMTP_TLS=587
+SMTP_USER=it.admin@mattilda.io
+SMTP_PASSWORD=641ab8gxGshRn5Km
+
+PROJECT_NAME=MATTILDA
+SERVER_HOST=https://mattilda.school
+EMAIL_TEMPLATES_DIR=templates/statics/
+EMAIL_RESET_TOKEN_EXPIRE_HOURS=24
+SECRET_KEY="bWF0dGlsZGEuaW8="
+HOST_KAFKA=kafka:9092
+TOPIC_KAFKA_USER_CREATED=user_created
+TOPIC_KAFKA_CHANGE_PASSWORD=change_password
+
+
+## 
